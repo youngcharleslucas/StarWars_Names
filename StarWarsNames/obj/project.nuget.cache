@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "w1tjs9jUNHwZhcWEYENZMqHnEK7djzwFB1VficGh24s0TDRvyUUIvT5uvS+6U1osVNn24O0y6fmjD+VbmBGB7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luke\\Documents\\Packsize\\StarWarsNames\\StarWarsNames\\StarWarsNames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luke\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Luke\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Luke\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Luke\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
